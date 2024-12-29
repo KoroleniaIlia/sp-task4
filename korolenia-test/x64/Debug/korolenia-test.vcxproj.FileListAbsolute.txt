@@ -1,0 +1,3 @@
+E:\GARBAGE\sys_prog_3_course\lab4\korolenia-test\x64\Debug\gtest.pdb
+E:\GARBAGE\sys_prog_3_course\lab4\korolenia-test\x64\Debug\gtest_main.pdb
+E:\GARBAGE\sys_prog_3_course\lab4\korolenia-test\korolenia-test\x64\Debug\koroleni.7348E6A2.Up2Date
