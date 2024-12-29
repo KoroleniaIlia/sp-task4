@@ -18,7 +18,7 @@ pipeline {
         
         stage('Test') {
         steps {
-            bat '"E:\\GARBAGE\\sys_prog_3_course\\lab4\korolenia-test\\x64\\Debug\\korolenia-test.exe" --gtest_output="xml:test_report.xml"'
+            bat '"E:\\GARBAGE\\sys_prog_3_course\\lab4\\korolenia-test\\x64\\Debug\\korolenia-test.exe" --gtest_output="xml:test_report.xml"'
             }
         }}
         
